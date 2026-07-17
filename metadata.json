@@ -1,0 +1,6 @@
+{
+  "name": "Venezuela Real",
+  "description": "Una plataforma interactiva para publicar y analizar las realidades sociales, políticas, económicas y cotidianas en Venezuela, con asistencia de IA y reportajes comunitarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
